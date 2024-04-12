@@ -138,3 +138,7 @@ data/cifar-10-batches-py/test_batch
 data/cifar-10-batches-py/readme.html
 .gitignore
 .gitignore
+runs/images/2/20240412-175451/events.out.tfevents.1712937291.DESKTOP-OI4FHQ6.10816.3
+runs/train/20240412-173320/events.out.tfevents.1712936000.DESKTOP-OI4FHQ6.10816.0
+runs/train/20240412-173454/events.out.tfevents.1712936094.DESKTOP-OI4FHQ6.10816.1
+runs/train/20240412-175116/events.out.tfevents.1712937076.DESKTOP-OI4FHQ6.10816.2
