@@ -145,3 +145,6 @@ runs/train/20240412-175116/events.out.tfevents.1712937076.DESKTOP-OI4FHQ6.10816.
 
 # tensorboard
 runs/
+
+# data
+data/
