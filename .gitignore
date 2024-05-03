@@ -149,3 +149,4 @@ runs/
 # data
 data/
 checkpoints/
+my_awesome_model/
